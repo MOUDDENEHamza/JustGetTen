@@ -1,6 +1,6 @@
 --------------------------------------------------------------------------------------------------------------
 
-					# PRESENTATION
+#					 PRESENTATION
 
 -This program is a famous game board named JUST GET TEN, the purpose of this game is get 10 by fisionning the
 cell.
@@ -8,7 +8,7 @@ cell.
 --------------------------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------------------------
 
-					# RUN & EXECUTE
+#					 RUN & EXECUTE
 
 -Before execute the program you need to install pygame library for the graphic part, so to do this in
 LINUX you have to open the terminal then type :
@@ -46,7 +46,7 @@ LINUX you have to open the terminal then type :
 --------------------------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------------------------
 
-					# LICENSE
+# 					LICENSE
 
 -This program is “free software” if the program’s users have the four essential freedoms:
 
